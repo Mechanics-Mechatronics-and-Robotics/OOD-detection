@@ -1,6 +1,6 @@
 # Project: OOD Detection Enhanced with World Knowledge
 
-![Status](https://img.shields.io/badge/status-a%20proposal-yellow)
+![Status](https://img.shields.io/badge/status-in%20progress-yellow)
 
 > **Summer internship project** exploring enhanced OOD detection through the integration of world knowledge from LLMs.  
 > Final goal: NeurIPS 2025 Workshop submission.
