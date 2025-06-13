@@ -82,6 +82,6 @@ The final deliverable is a concise workshop paper (approximately 4 pages) aiming
 - Data processing libraries (NumPy, Pandas)
 
 ## References
-
+- [NIPS-2025](https://neurips.cc/Conferences/2025/CallForPapers)
 - Yang, et al. (2024). *Generalized Out-of-Distribution Detection: A Survey*. https://arxiv.org/abs/2110.11334
 - Radford, A., et al. (2021). *Learning Transferable Visual Models From Natural Language Supervision* (CLIP). https://arxiv.org/abs/2103.00020
